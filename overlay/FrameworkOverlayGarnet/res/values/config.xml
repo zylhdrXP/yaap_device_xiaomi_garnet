@@ -849,4 +849,7 @@
     <!-- Proc filesystem paths -->
     <string name="config_proc_stat_path" translatable="false">/proc/stat</string>
     <string name="config_proc_meminfo_path" translatable="false">/proc/meminfo</string>
+
+    <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
+    <integer name="config_screenRecorderMaxFramerate">120</integer>
 </resources>

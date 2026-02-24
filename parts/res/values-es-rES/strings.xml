@@ -84,15 +84,6 @@
     <string name="auto_hbm_disable_time_title">Tiempo de desactivación</string>
     <string name="auto_hbm_disable_time_summary">Duración en segundos durante la cual el modo de alta luminosidad se desactiva si el umbral de luz cae por debajo del nivel establecido</string>
 
-    <!-- GameBar Overlay -->
-    <string name="game_bar_title">GameBar</string>
-    <string name="game_bar_summary">Activa la superposición del sistema (FPS, Temp, etc.)</string>
-    <string name="overlay_permission_required">Se requiere permiso para mostrar sobre otras aplicaciones</string>
-    <string name="overlay_permission_granted">Permiso de superposición concedido</string>
-    <string name="overlay_permission_denied">Permiso de superposición denegado</string>
-    <string name="game_bar_tile_label">GameBar</string>
-    <string name="game_bar_tile_description">Alternar la superposición de juego</string>
-
     <!-- Charge bypass strings -->
     <string name="charge_bypass_title">Carga directa</string>
     <string name="charge_bypass_summary">Habilita la carga directa, omitiendo la batería</string>

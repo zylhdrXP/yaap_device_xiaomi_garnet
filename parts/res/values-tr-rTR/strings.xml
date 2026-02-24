@@ -69,15 +69,6 @@
     <string name="auto_hbm_disable_time_title">Devre dışı bırakma süresi</string>
     <string name="auto_hbm_disable_time_summary">Işık eşiği ayarlanan seviyenin altına düşerse YPM’nin devre dışı bırakılacağı süre (saniye)</string>
 
-    <!-- GameBar Overlay -->
-    <string name="game_bar_title">Oyun Çubuğu</string>
-    <string name="game_bar_summary">Sistem katmanını etkinleştir (FPS, Sıcaklık, vb.)</string>
-    <string name="overlay_permission_required">Katman izni gerekiyor</string>
-    <string name="overlay_permission_granted">Katman izni verildi</string>
-    <string name="overlay_permission_denied">Katman izni reddedildi</string>
-    <string name="game_bar_tile_label">Oyun Çubuğu</string>
-    <string name="game_bar_tile_description">Oyun katmanını aç/kapat</string>
-
     <!-- Charge bypass strings -->
     <string name="charge_bypass_title">Şarjı baypas et</string>
     <string name="charge_bypass_summary">Bataryayı atlayarak doğrudan şarj etmeyi etkinleştir</string>

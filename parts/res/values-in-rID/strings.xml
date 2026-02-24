@@ -84,15 +84,6 @@
     <string name="auto_hbm_disable_time_title">Waktu nonaktif</string>
     <string name="auto_hbm_disable_time_summary">Durasi dalam detik berapa HBM dinonaktifkan jika intensitas cahaya jatuh dibawah level batas yang ditentukan</string>
 
-    <!-- GameBar Overlay -->
-    <string name="game_bar_title">GameBar</string>
-    <string name="game_bar_summary">Mengaktifkan overlay sistem (FPS, Temp, dll.)</string>
-    <string name="overlay_permission_required">Izin overlay dibutuhkan</string>
-    <string name="overlay_permission_granted">Izin overlay diberikan</string>
-    <string name="overlay_permission_denied">Izin overlay ditolak</string>
-    <string name="game_bar_tile_label">GameBar</string>
-    <string name="game_bar_tile_description">Hidupkan overlay game</string>
-
     <!-- Charge bypass strings -->
     <string name="charge_bypass_title">Bypass charging</string>
     <string name="charge_bypass_summary">Hidupkan pengisian daya langsung, tanpa menggunakan baterai</string>

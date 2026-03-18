@@ -27,3 +27,9 @@ cd hardware/qcom-caf/common
 git fetch https://github.com/zylhdrXP/yaap_hardware_qcom-caf_common
 git reset --hard FETCH_HEAD
 croot
+
+cd frameworks/base
+git remote add VVF https://github.com/los-garnet/android_frameworks_base
+git fetch VVF
+git cherry-pick 515a87cd2e44dd208874bb7690110a54c851266e
+croot
